@@ -1,8 +1,8 @@
 
 # Screenshots
-##DashBoard
+## DashBoard
 ![](DashboardInternship.png)
-##Login
+## Login
 ![](login.png)
 
 
